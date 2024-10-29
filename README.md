@@ -16,6 +16,14 @@ Introduction to xEdit and its many uses.
 
 The one tried and true method for conflict resolution.
 
+### [Tools to Avoid](https://vivanewvegas.moddinglinked.com/avoid-tools.html)
+
+An *incomprehensive* list of modding tools you should avoid.
+
+### [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
+
+An *incomprehensive* list of mods you should avoid.
+
 ### [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/wiki)
 
 Amazing guide by Lively that shows you how to begin modding in general.
