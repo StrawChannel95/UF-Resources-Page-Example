@@ -67,3 +67,7 @@ The best guide for Tale of Two Wastelands players.
 ### [FNV Performance Guide](https://performance.moddinglinked.com/falloutnv.html)
 
 A guide on how to squeeze as much performance out of New Vegas as possible, recommended for TTW players too.
+
+### [SALVO](https://salamand3r.fail/salvo)
+
+An actually amazing texture guide, doesn't break your game and isn't stupid and contains an 8K Spoon Texture.
