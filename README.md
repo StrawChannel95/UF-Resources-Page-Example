@@ -2,6 +2,7 @@
 
 :::important NOT PART OF UF
 These resources were designed to point you in the right direction when it comes to modding, do **NOT** follow them all at the same time, the General Resources can be applied anywhere, the specific modding guides should be read closely and followed to the letter. Please direct any support questions about these guides to their respective Discord server/community hub.
+:::
 
 ### [Modding Dogmas](https://moddinglinked.com/dogmas.html)
 
